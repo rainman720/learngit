@@ -4,3 +4,4 @@ Git is very great.
 Git will be the most successful software.
 Git is updated firstly.
 Git is updated secondly.
+My stupid boss still prefer SVN.
