@@ -2,3 +2,4 @@
 Git is a free software distributed under the GPL.
 Git is very great.
 Git will be the most successful software.
+Git is updated firstly.
