@@ -7,5 +7,5 @@ Git is updated secondly.
 My stupid boss still prefer SVN.
 Local git has already remoted github.
 Creating a new branch is quick.
-Creating a new branch is quick and simple.
+Creating  new branch is quick and simple.
 new new new 
