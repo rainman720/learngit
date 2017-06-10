@@ -6,3 +6,4 @@ Git is updated firstly.
 Git is updated secondly.
 My stupid boss still prefer SVN.
 Local git has already remoted github.
+Creating a new branch is quick.
